@@ -1,0 +1,6 @@
+transformers==5.0.0
+huggingface_hub==1.4.1
+openai==1.59.5
+Pillow==11.3.0
+streamlit==1.40.2
+torch==2.6.0
