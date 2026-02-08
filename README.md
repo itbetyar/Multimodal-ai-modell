@@ -1,21 +1,23 @@
 # Multimodal-ai-modell | 🎨 Image to Audio Story
 Multimodális feladatmegoldás neurális hálókkal
 
+
+<img src="https://raw.githubusercontent.com/itbetyar/Multimodal-ai-modell/refs/heads/main/mulimodal_cover.webp" alt="Multimodal Demo" width="650">
+
 ## 🔗 Linkek és Demók
 
 | 🚀 IT Betyár Demo | 💻 GitHub Repository | 🤗 Hugging Face Demo | 🎓 AI Tanfolyam |
 |:---:|:---:|:---:|:---:|
 | [![IT Betyár Demo](https://img.shields.io/badge/🚀_IT_Betyár-Élő_Demo-orange)](https://itbetyar.hu/project/multimodal-ai-modell/) | [![GitHub](https://img.shields.io/badge/GitHub-Multimodal-f0f0f0?logo=github&logoColor=black)](https://github.com/itbetyar/Multimodal-ai-modell/) | [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Demo_Space-FFD21E)](https://huggingface.co/spaces/itbetyar/5-image-to-story) | [![AI Tanfolyam](https://img.shields.io/badge/🎓_AI_Tanfolyam-itbetyar.hu-28a745)](https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam/) |
 
-
+---
+⭐ Ha tetszik a projekt, adj neki egy csillagot a GitHub-on!
+---
 
 - Multimodal AI alkalmazás, amely egy képből automatikusan generál audio történetet.
 - Az app 3 különböző AI modellt használ:
     - képfelismerést(image-to-text), szöveggenerálást(text-to-text) és beszédszintézist(text-to-speech).
  
-⭐ Ha tetszik a projekt, adj neki egy csillagot a GitHub-on!
-
-![Demo](mulimodal_cover.webp)
 
 ## 🌟 Funkciók
 
@@ -23,6 +25,8 @@ Multimodális feladatmegoldás neurális hálókkal
 - **Történetgenerálás** - ez alapján a GPT-3.5 Turbo használatával kreatív rövid történetet ír
 - **Beszédszintézis** - ebből Text-to-Speech technológiával audio formátumba konvertálja a történetet
 - **Intuitív felület** - Streamlit alapú, felhasználóbarát webes interfész
+
+<img src="https://raw.githubusercontent.com/itbetyar/Multimodal-ai-modell/refs/heads/main/multimodal-web.webp" alt="Multimodal Demo" width="350">
 
 ## 🚀 Használt technológiák
 
